@@ -10,7 +10,7 @@ Feature: Search by keyword
     When he inserts their credentials digegu0532@gmail.com and didi123
     Then he should have access to manage his account
 
-  Scenario: successful purchase
-    Given Didier has an active account
-    When he wants to buy a product
-    Then he should have access to manage his account
+  //Scenario: successful purchase
+    //Given Didier has an active account
+    //When he wants to buy a product
+    //Then he should have access to manage his account
